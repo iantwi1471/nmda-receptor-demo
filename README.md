@@ -11,7 +11,7 @@ When both happen together, Ca²⁺ flows in. In real neurons, that calcium signa
 
 ## Try it
 
-- **Live demo:** enable GitHub Pages for this repo (Settings → Pages → deploy from `main`, root folder) and open `https://<your-username>.github.io/nmda-receptor-demo/`
+- **Live demo:** https://iantwi1471.github.io/nmda-receptor-demo/
 - **Locally:** download `index.html` and open it in any browser. Nothing to install.
 
 ## Things to try
